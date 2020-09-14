@@ -1,0 +1,16 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+.App {
+  background-image: linear-gradient(
+    -225deg,
+    #5d9fff 0%,
+    #b8dcff 48%,
+    #6bbbff 100%
+  );
+  min-height: 100vh;
+  background-size: contain;
+  width: 100%;
+}
